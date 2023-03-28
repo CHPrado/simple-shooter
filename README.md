@@ -17,6 +17,12 @@ In this game you controll a shooter character and are able to shoot a riffle and
 
 ## What was learnt:
   
+- Player movement;
+- Animation;
+- Shooting;
+- Health / Death;
+- Enemy AI;
+- Win / Lose conditions;
 
 <details>
   <summary>Screenshots</summary>
@@ -27,6 +33,3 @@ In this game you controll a shooter character and are able to shoot a riffle and
 
   ![image](https://user-images.githubusercontent.com/27180625/228098063-8cc2d47f-89c7-4f57-915e-d2a5b32607a9.png)
 </details>
-
-
-
