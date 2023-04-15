@@ -6,7 +6,7 @@ In this game you controll a shooter character and are able to shoot a riffle and
 
 ## How the game works
 
-- the player can controll a character that can move arount, jump and shoot a riffle;
+- the player can controll a character that can move around, jump and shoot a riffle;
 - kill all the enemimy bots to win the game;
 - winning the game you get the message "You Win!";
 - if your helth gets to 0 your character dies and you lose;
